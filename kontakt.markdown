@@ -4,6 +4,6 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-# Header
+Haben Sie Fragen oder eine Anliegen? Wir sind gerne für Sie da!
 
-Content
+Sie erreichen uns unkompliziert per E-Mail unter: info@cyport.io
