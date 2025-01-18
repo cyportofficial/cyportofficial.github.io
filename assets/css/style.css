@@ -80,6 +80,27 @@ h2 {
   font-style: italic;
 }
 
+.main-wrapper-center {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+.main-wrapper-center p {
+  padding: 0 50px !important;
+}
+
+.main-wrapper-center p a,
+.main-wrapper-center p a:hover {
+  color: #ffffff;
+  border-radius: 9999px;
+  padding: 8px 20px;
+  background-color: rgb(2, 84, 236);
+  font-style: normal;
+  display: block;
+  width: 80px;
+}
+
 
 /* Medium screens, like tablets */
 @media (min-width: 600px) {
@@ -107,6 +128,7 @@ h2 {
 
   .main-wrapper p {
     padding: 50px 0;
+    color: #666666;
   }
 }
 
