@@ -103,10 +103,12 @@ h2 {
   color: #ffffff;
 }
 
-
-
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
   overflow-wrap: break-word
+}
+
+.section-design div p:first-of-type {
+  padding-bottom: 0 !important;
 }
 
 @media (min-width: 440px) {
