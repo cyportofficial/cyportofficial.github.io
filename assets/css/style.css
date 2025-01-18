@@ -111,6 +111,10 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
   padding-bottom: 0 !important;
 }
 
+.post-title {
+  font-size: 32px !important;
+}
+
 @media (min-width: 440px) {
   .main-wrapper-center {
     display: flex;
