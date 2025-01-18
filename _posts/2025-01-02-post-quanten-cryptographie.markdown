@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  Post-Quanten-Cryptograpie
 date:   2025-01-13 17:36:19 +0100
 tags: pqc cryptography

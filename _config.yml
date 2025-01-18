@@ -28,6 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  cyportofficial
 feed:
   enabled: false
+permalink: /blog/:title/
 
 # Build settings
 theme: minima
