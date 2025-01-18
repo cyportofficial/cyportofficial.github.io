@@ -78,27 +78,47 @@ h2 {
 
 .main-wrapper p {
   font-style: italic;
-}
-
-.main-wrapper-center {
-  display: flex;
-  justify-content: center;
-  justify-items: center;
-}
-
-.main-wrapper-center p {
-  padding: 0 50px !important;
+  text-align: center;
+  padding: 10px 0;
 }
 
 .main-wrapper-center p a,
 .main-wrapper-center p a:hover {
-  color: #ffffff;
   border-radius: 9999px;
   padding: 8px 20px;
-  background-color: rgb(2, 84, 236);
   font-style: normal;
-  display: block;
+  display: inline-block;
   width: 80px;
+}
+
+.main-wrapper-center p .main-border-link,
+.main-wrapper-center p .main-border-link:hover {
+  outline: 1px solid rgb(2, 84, 236);
+  color: rgb(2, 84, 236);
+}
+
+.main-wrapper-center p .main-fill-link,
+.main-wrapper-center p .main-fill-link:hover {
+  background-color: rgb(2, 84, 236);
+  color: #ffffff;
+}
+
+
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
+  overflow-wrap: break-word
+}
+
+@media (min-width: 440px) {
+  .main-wrapper-center {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+  }
+
+  .main-wrapper-center p {
+    padding: 0 50px !important;
+  }
 }
 
 
