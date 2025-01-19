@@ -91,10 +91,13 @@ h2 {
   width: 80px;
 }
 
-.main-wrapper-center p .main-border-link,
-.main-wrapper-center p .main-border-link:hover {
+.main-wrapper-center p .main-border-link {
   outline: 1px solid rgb(2, 84, 236);
   color: rgb(2, 84, 236);
+}
+.main-wrapper-center p .main-border-link:hover {
+  color: #ffffff;
+  background-color: rgb(2, 84, 236);
 }
 
 .main-wrapper-center p .main-fill-link,
