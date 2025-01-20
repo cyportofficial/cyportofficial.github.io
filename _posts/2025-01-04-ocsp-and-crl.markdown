@@ -23,4 +23,5 @@ SSL/TLS-Verbindungen, verwendet wird. OCSP wird eingesetzt, um festzustellen, ob
 [rfc6961]
 
 
-
+https://letsencrypt.org/2024/12/05/ending-ocsp/
+https://blog.cloudflare.com/high-reliability-ocsp-stapling/
