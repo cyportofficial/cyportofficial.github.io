@@ -1,7 +1,26 @@
 ---
 layout: page
-title:  OCSP und CRLs
-date:   2025-01-13 17:36:19 +0100
-tags: cryptography x509
+title:  OCSP is dead
+date:   2025-01-04
+tags: cryptography x.509
 ---
-Upcoming post... OCSP und/oder CRLs
+Upcoming post... 
+
+### CRL
+#### Was ist eine CRL (Certificate Revocation List)?
+Eine Certificate Revocation List (CRL) ist ein wesentlicher Bestandteil der Public Key Infrastructure (PKI),
+die dazu dient, digitale Zertifikate zu verwalten und ihre Gültigkeit sicherzustellen. Eine CRL ist eine Liste,
+die von einer Zertifizierungsstelle (CA = Certificate Authority) veröffentlicht wird und alle Zertifikate enthält,
+die vor ihrem Ablaufdatum für ungültig erklärt wurden.
+[rfc5280]
+
+### OCSP
+#### Was ist OCSP?
+OCSP steht für Online Certificate Status Protocol (Online-Zertifikat-Status-Protokoll). Es handelt sich um ein 
+Protokoll, das zur Überprüfung des Gültigkeitsstatus von digitalen Zertifikaten, insbesondere im Zusammenhang mit 
+SSL/TLS-Verbindungen, verwendet wird. OCSP wird eingesetzt, um festzustellen, ob ein Zertifikat zurückgezogen 
+(widerrufen) wurde, bevor es abläuft.
+[rfc6961]
+
+
+

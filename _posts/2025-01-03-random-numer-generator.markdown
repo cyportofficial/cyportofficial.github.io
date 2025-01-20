@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Qualität von Random Number Generators
-date:   2025-01-13 17:36:19 +0100
+date:   2025-01-03
 tags: cryptography entropy
 ---
 Upcoming post... Unterschiede von Zufallszahlengeneratoren
