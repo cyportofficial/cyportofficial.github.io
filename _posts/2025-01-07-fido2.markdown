@@ -5,3 +5,12 @@ date:   2025-01-07
 tags: cryptography 
 ---
 Upcoming post... 
+
+Spezifikationen
+https://fidoalliance.org/specifications/
+
+WebAuthn
+https://www.w3.org/TR/webauthn-3/
+
+CTAP (vormahls U2F)
+https://fidoalliance.org/specs/fido-v2.0-ps-20190130/fido-client-to-authenticator-protocol-v2.0-ps-20190130.html
