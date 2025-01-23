@@ -7,3 +7,4 @@ tags: KeyManagement AWS KMS
 Upcoming post... 
 
 CMK managed Key Attack
+https://airwalkreply.com/aws-kms-threat-model
