@@ -4,11 +4,12 @@ title:  OCSP is dead
 date:   2025-01-04
 tags: cryptography x.509
 ---
-Upcoming post... 
+Ein revoziertes Zertifikat verliert seine Vertrauenswürdigkeit und kann ein Sicherheitsrisiko darstellen. Wird es 
+dennoch verwendet, können Angreifer unbefugten Zugriff auf vertrauliche Daten oder Systeme erlangen. 
 
-### CRL
+Neben CRLs 
 #### Was ist eine CRL (Certificate Revocation List)?
-Eine Certificate Revocation List (CRL) ist ein wesentlicher Bestandteil der Public Key Infrastructure (PKI),
+Eine CRL ist ein wesentlicher Bestandteil der Public Key Infrastructure (PKI),
 die dazu dient, digitale Zertifikate zu verwalten und ihre Gültigkeit sicherzustellen. Eine CRL ist eine Liste,
 die von einer Zertifizierungsstelle (CA = Certificate Authority) veröffentlicht wird und alle Zertifikate enthält,
 die vor ihrem Ablaufdatum für ungültig erklärt wurden.
