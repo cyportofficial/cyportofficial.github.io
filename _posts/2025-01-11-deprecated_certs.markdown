@@ -11,3 +11,5 @@ Domain ändert den Besitzer
 Altes verwaistes Zertifikat weiterhin gültig bis Ablaufdatum
 
 Angreifbar über DNS Spoofing
+
+Verhindert das DNSSEC?
