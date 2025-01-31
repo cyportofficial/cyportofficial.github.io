@@ -38,9 +38,7 @@ Sicherheitsanforderungen ab. Dabei sind verschiedene Fragen zu klären, um die r
 * Wie wichtig sind Verfügbarkeit und Authentizität? 
 * Ist der Schutz der Privatsphäre der Nutzer von Bedeutung? 
 * Welche Speicherkapazitäten stehen zur Verfügung? 
-* Wie viele Zertifikate oder Root-Zertifikate müssen überprüft werden? 
-* Muss eine Signatur bei der Verwendung oder bei der Erstellung nicht-revoziert sein?
-* ...
+* Wie viele Zertifikate oder Root-Zertifikate müssen überprüft werden?
 
 
 ---
