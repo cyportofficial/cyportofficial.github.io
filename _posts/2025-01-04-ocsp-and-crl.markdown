@@ -42,7 +42,9 @@ Sicherheitsanforderungen ab. Dabei sind verschiedene Fragen zu klären, um die r
 * Muss eine Signatur bei der Verwendung oder bei der Erstellung nicht-revoziert sein?
 * ...
 
+
 ---
+
 
 ...und zu welchen Zeitpunkt ist die Revozierungsinformation von Bedeutung, bei einer Signaturerstellung oder bei der 
 Verifikation? Wie kann ich Replay-Angriffe verhindern oder beweisen, dass zu einem bestimmten Zeitpunkt ein Zertifikat
@@ -58,8 +60,6 @@ and Certificate Revocation List (CRL) Profile"](https://datatracker.ietf.org/doc
 [RFC6960 "X.509 Internet Public Key Infrastructure Online Certificate Status Protocol - OCSP"](https://datatracker.ietf.org/doc/html/rfc6960)
 
 [RFC7515 "JSON Web Signature (JWS)"](https://datatracker.ietf.org/doc/html/rfc7515)
-
-[RFC7516 "JSON Web Encryption (JWE)"](https://datatracker.ietf.org/doc/html/rfc7516)
 
 [RFC5126 "CMS Advanced Electronic Signatures (CAdES)"](https://datatracker.ietf.org/doc/html/rfc5126)
 
