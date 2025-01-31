@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Certifcate Revocation ist kaputt
+title:  Revozierung von Zertifikaten
 date:   2025-01-04
 tags: cryptography x.509
 ---
