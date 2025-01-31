@@ -40,15 +40,12 @@ Sicherheitsanforderungen ab. Dabei sind verschiedene Fragen zu klären, um die r
 * Welche Speicherkapazitäten stehen zur Verfügung? 
 * Wie viele Zertifikate oder Root-Zertifikate müssen überprüft werden?
 
-
----
-
-
 ...und zu welchen Zeitpunkt ist die Revozierungsinformation von Bedeutung, bei einer Signaturerstellung oder bei der 
 Verifikation? Wie kann ich Replay-Angriffe verhindern oder beweisen, dass zu einem bestimmten Zeitpunkt ein Zertifikat
 gültig war? Viele Fragen die einer genauen Analysen bedürfen um fundierte Entscheidungen zu treffen und ein Design
 zu entwickeln, welches den realen Bedrohungen entgegen wirkt.
 
+---
 
 **Nachweise**
 
