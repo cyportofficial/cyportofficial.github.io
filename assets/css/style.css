@@ -1,5 +1,5 @@
 hr {
-  border: 1px solid #cccccc;
+  border: 0.5px solid #828282;
   margin: 30px 0;
 }
 
@@ -66,7 +66,7 @@ hr {
   border-radius: 9999px;
   padding: 5px 10px;
   font-size: 14px;
-  background-color: #a0a0c0;
+  background-color: #828282 ;
   margin-left: 10px;
 }
 
